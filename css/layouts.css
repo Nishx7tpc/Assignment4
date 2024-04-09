@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'Kyviv Sans';
+    src: url(/fonts/KyivTypeSans.woff2);
+    format('woff2-variations');
+    font-weight: 0 1000;
+    font-display: swap;
+}
+
+body {
+    background-color: black;
+    justify-content: center;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(1, 3fr);
+    grid-template-rows: repeat(1, 3fr);
+}
+
+.v-font {
+    font-family: 'Kyviv Sans';
+    font-size: 4rem;
+}
+
+@keyframes blink {
+    0% {
+        font-variation-settings: 'wght' 0, 'CONT' 1000, 'MIDL' -1000;
+    }
+
+    25% {
+        font-variation-settings: 'wght' 500, 'CONT' 500, 'MIDL' -500;
+    }
+
+    50% {
+        font-variation-settings: 'wght' 1000, 'CONT' 0, 'MIDL' 0;
+    }
+
+    75% {
+        font-variation-settings: 'wght' 500, 'CONT' 500, 'MIDL' -500;
+    }
+
+    100% {
+        font-variation-settings: 'wght' 0, 'CONT' 1000, 'MIDL' -1000;
+    }
+}

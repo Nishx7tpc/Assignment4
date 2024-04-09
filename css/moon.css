@@ -1,0 +1,117 @@
+.moon {
+    color: white;
+    display: flex;
+    column-gap: 40px;
+    justify-content: center;
+    height: 35vh
+}
+
+.moon-1 {
+    text-align: center;
+    color: white;
+    text-shadow: 0 0 10px rgba(207, 207, 207, 0.619),
+        0 0 20px rgb(207, 207, 207, 0.619),
+        0 0 40px rgb(207, 207, 207, 0.619),
+        0 0 80px rgb(207, 207, 207, 0.619),
+        0 0 120px rgb(207, 207, 207, 0.619);
+    animation: blink 3s infinite linear;
+}
+
+.moon-2 {
+    text-align: center;
+    color: white;
+    text-shadow: 0 0 10px rgb(207, 207, 207, 0.619),
+        0 0 20px rgb(207, 207, 207, 0.619),
+        0 0 40px rgb(207, 207, 207, 0.619),
+        0 0 80px rgb(207, 207, 207, 0.619),
+        0 0 120px rgb(207, 207, 207, 0.619);
+    animation: blink 3s infinite linear;
+}
+
+.moon-3 {
+    text-align: center;
+    color: white;
+    text-shadow: 0 0 10px rgb(207, 207, 207, 0.619),
+        0 0 20px rgb(207, 207, 207, 0.619),
+        0 0 40px rgb(207, 207, 207, 0.619),
+        0 0 80px rgb(207, 207, 207, 0.619),
+        0 0 120px rgb(207, 207, 207, 0.619);
+    animation: blink 3s infinite linear;
+}
+
+.moon-4 {
+    text-align: center;
+    color: white;
+    text-shadow: 0 0 10px rgb(207, 207, 207, 0.619),
+        0 0 20px rgb(207, 207, 207, 0.619),
+        0 0 40px rgb(207, 207, 207, 0.619),
+        0 0 80px rgb(207, 207, 207, 0.619),
+        0 0 120px rgb(207, 207, 207, 0.619);
+    animation: blink 3s infinite linear;
+}
+
+.moon-5 {
+    text-align: center;
+    color: white;
+    text-shadow: 0 0 10px rgb(207, 207, 207, 0.619),
+        0 0 20px rgb(207, 207, 207, 0.619),
+        0 0 40px rgb(207, 207, 207, 0.619),
+        0 0 80px rgb(207, 207, 207, 0.619),
+        0 0 120px rgb(207, 207, 207, 0.619);
+    animation: blink 3s infinite linear;
+}
+
+.moon-6 {
+    text-align: center;
+    color: white;
+    text-shadow: 0 0 10px rgb(207, 207, 207, 0.619),
+        0 0 20px rgb(207, 207, 207, 0.619),
+        0 0 40px rgb(207, 207, 207, 0.619),
+        0 0 80px rgb(207, 207, 207, 0.619),
+        0 0 120px rgb(207, 207, 207, 0.619);
+    animation: blink 3s infinite linear;
+}
+
+.moon-7 {
+    text-align: center;
+    color: white;
+    text-shadow: 0 0 10px rgb(207, 207, 207, 0.619),
+        0 0 20px rgb(207, 207, 207, 0.619),
+        0 0 40px rgb(207, 207, 207, 0.619),
+        0 0 80px rgb(207, 207, 207, 0.619),
+        0 0 120px rgb(207, 207, 207, 0.619);
+    animation: blink 3s infinite linear;
+}
+
+.moon-8 {
+    text-align: center;
+    color: white;
+    text-shadow: 0 0 10px rgb(207, 207, 207, 0.619),
+        0 0 20px rgb(207, 207, 207, 0.619),
+        0 0 40px rgb(207, 207, 207, 0.619),
+        0 0 80px rgb(207, 207, 207, 0.619),
+        0 0 120px rgb(207, 207, 207, 0.619);
+    animation: blink 3s infinite linear;
+}
+
+.moon-9 {
+    text-align: center;
+    color: white;
+    text-shadow: 0 0 10px rgb(207, 207, 207, 0.619),
+        0 0 20px rgb(207, 207, 207, 0.619),
+        0 0 40px rgb(207, 207, 207, 0.619),
+        0 0 80px rgb(207, 207, 207, 0.619),
+        0 0 120px rgb(207, 207, 207, 0.619);
+    animation: blink 3s infinite linear;
+}
+
+.moon-10 {
+    text-align: center;
+    color: white;
+    text-shadow: 0 0 10px rgb(207, 207, 207, 0.619),
+        0 0 20px rgb(207, 207, 207, 0.619),
+        0 0 40px rgb(207, 207, 207, 0.619),
+        0 0 80px rgb(207, 207, 207, 0.619),
+        0 0 120px rgb(207, 207, 207, 0.619);
+    animation: blink 3s infinite linear;
+}

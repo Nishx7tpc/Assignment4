@@ -1,0 +1,73 @@
+.sun {
+    display: flex;
+    flex-direction: row;
+    column-gap: 40px;
+    justify-content: center;
+    height: 35vh
+}
+
+.sun-1 {
+    text-align: center;
+    color: white;
+    text-shadow: 0 0 10px rgb(220, 197, 52),
+        0 0 20px rgb(220, 197, 52),
+        0 0 40px rgb(220, 197, 52),
+        0 0 80px rgb(220, 197, 52),
+        0 0 120px rgb(220, 197, 52);
+    animation: blink 3s infinite linear;
+}
+
+.sun-2 {
+    text-align: center;
+    color: white;
+    text-shadow: 0 0 10px rgb(220, 197, 52),
+        0 0 20px rgb(220, 197, 52),
+        0 0 40px rgb(220, 197, 52),
+        0 0 80px rgb(220, 197, 52),
+        0 0 120px rgb(220, 197, 52);
+    animation: blink 3s infinite linear;
+}
+
+.sun-3 {
+    text-align: center;
+    color: white;
+    text-shadow: 0 0 10px rgb(220, 197, 52),
+        0 0 20px rgb(220, 197, 52),
+        0 0 40px rgb(220, 197, 52),
+        0 0 80px rgb(220, 197, 52),
+        0 0 120px rgb(220, 197, 52);
+    animation: blink 3s infinite linear;
+}
+
+.sun-4 {
+    text-align: center;
+    color: white;
+    text-shadow: 0 0 10px rgb(220, 197, 52),
+        0 0 20px rgb(220, 197, 52),
+        0 0 40px rgb(220, 197, 52),
+        0 0 80px rgb(220, 197, 52),
+        0 0 120px rgb(220, 197, 52);
+    animation: blink 3s infinite linear;
+}
+
+.sun-5 {
+    text-align: center;
+    color: white;
+    text-shadow: 0 0 10px rgb(220, 197, 52),
+        0 0 20px rgb(220, 197, 52),
+        0 0 40px rgb(220, 197, 52),
+        0 0 80px rgb(220, 197, 52),
+        0 0 120px rgb(220, 197, 52);
+    animation: blink 3s infinite linear;
+}
+
+.sun-6 {
+    text-align: center;
+    color: white;
+    text-shadow: 0 0 10px rgb(220, 197, 52),
+        0 0 20px rgb(220, 197, 52),
+        0 0 40px rgb(220, 197, 52),
+        0 0 80px rgb(220, 197, 52),
+        0 0 120px rgb(220, 197, 52);
+    animation: blink 3s infinite linear;
+}
